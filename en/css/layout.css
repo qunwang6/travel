@@ -1,0 +1,27 @@
+.smallCol, .col_1_3, .col6, .col7, .col8, .col9, .cols { float:left;}
+
+.smallCol{
+	width:130px;
+}
+.col_1_3{
+	width:197px;
+	padding-right:21px;
+}
+.col6{
+	width:230px;
+}
+.col7{
+	width:270px;
+}
+.col8{
+	width:310px;
+}
+.col9{
+	width:350px;
+}
+.cols{
+	width: 631px;
+}
+.prefix_1{
+	padding-left:50px;
+}
